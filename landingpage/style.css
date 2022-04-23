@@ -1,7 +1,9 @@
 .topheader {
     background-color:#333;
+    border-style:dotted;
 }
 
 .topnav {
     background-color:blue;
+    border-style:solid;
 }
